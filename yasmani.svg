@@ -28002,9 +28002,9 @@
        id="namedview1"
        bordercolor="#000000"
        borderopacity="0.25"
-       inkscape:current-layer="g40"
-       inkscape:cx="960.54334"
-       inkscape:cy="540"
+       inkscape:current-layer="svg10"
+       inkscape:cx="959.65347"
+       inkscape:cy="238.86139"
        inkscape:deskcolor="#d1d1d1"
        inkscape:pagecheckerboard="0"
        inkscape:pageopacity="0.0"
@@ -28014,7 +28014,7 @@
        inkscape:window-width="1920"
        inkscape:window-x="-9"
        inkscape:window-y="-9"
-       inkscape:zoom="0.71574074"
+       inkscape:zoom="2.02"
        pagecolor="#ffffff"
        showgrid="false">
       <inkscape:grid
@@ -29138,11 +29138,12 @@
          inkscape:label="zemin">
         <ellipse
            id="path1"
-           cx="958.69"
+           cx="959.22498"
            cy="163.12"
-           rx="247.37"
+           rx="238.49492"
            ry="73.5"
-           inkscape:label="siyah arka plan" />
+           inkscape:label="siyah arka plan"
+           style="stroke-width:0.981897" />
         <path
            id="path13-1-5-1"
            class="st539"
