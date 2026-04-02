@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="0 0 1920 1080"
    id="svg6331"
-   sodipodi:docname="yasmani (1).svg"
+   sodipodi:docname="yasmani.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28002,9 +28002,9 @@
        id="namedview1"
        bordercolor="#000000"
        borderopacity="0.25"
-       inkscape:current-layer="g13-3"
+       inkscape:current-layer="svg10"
        inkscape:cx="959.42029"
-       inkscape:cy="539.85507"
+       inkscape:cy="667.3913"
        inkscape:deskcolor="#d1d1d1"
        inkscape:pagecheckerboard="0"
        inkscape:pageopacity="0.0"
@@ -29236,14 +29236,17 @@
       <g
          id="text58"
          class="st12"
-         inkscape:label="cappuccino ad">
+         inkscape:label="cappuccino ad"
+         transform="translate(-1.669086)">
         <text
            class="st2"
-           transform="translate(61.97 958.78) scale(.81 1)"
-           id="text6249"><tspan
+           transform="matrix(0.81,0,0,1,61.97,958.78)"
+           id="text6249"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6249">CAPPUCCiNO</tspan></text>
+             id="tspan6249"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CAPPUCCiNO</tspan></text>
       </g>
       <g
          id="text57"
@@ -29252,82 +29255,102 @@
         <text
            class="st13"
            transform="translate(61.97 886.12) scale(.7 1)"
-           id="text6250"><tspan
+           id="text6250"
+           style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:46.4px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6250">W.CHOCOLATE MOCHA</tspan></text>
+             id="tspan6250"
+             style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:46.40000074px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">W.CHOCOLATE MOCHA</tspan></text>
       </g>
       <g
          id="text56"
          class="st12"
-         inkscape:label="cafe mocha ad">
+         inkscape:label="cafe mocha ad"
+         transform="translate(-1.669086)">
         <text
            class="st23"
-           transform="translate(61.97 815.74) scale(.81 1)"
-           id="text6251"><tspan
+           transform="matrix(0.81,0,0,1,61.97,815.74)"
+           id="text6251"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6251">CAFE MOCHA</tspan></text>
+             id="tspan6251"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CAFE MOCHA</tspan></text>
       </g>
       <g
          id="text55"
          class="st12"
-         inkscape:label="cafe latte ad">
+         inkscape:label="cafe latte ad"
+         transform="translate(-1.669086)">
         <text
            class="st23"
-           transform="translate(61.97 752.16) scale(.81 1)"
-           id="text6252"><tspan
+           transform="matrix(0.81,0,0,1,61.97,752.16)"
+           id="text6252"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6252">CAFE LATTE</tspan></text>
+             id="tspan6252"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CAFE LATTE</tspan></text>
       </g>
       <g
          id="text54"
          class="st12"
-         inkscape:label="espresso ad">
+         inkscape:label="espresso ad"
+         transform="translate(-2.6233673)">
         <text
            class="st23"
-           transform="translate(61.97 686.32) scale(.81 1)"
-           id="text6253"><tspan
+           transform="matrix(0.81,0,0,1,61.97,686.32)"
+           id="text6253"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6253">ESPRESSO</tspan></text>
+             id="tspan6253"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ESPRESSO</tspan></text>
       </g>
       <g
          id="text53"
          class="st12"
-         inkscape:label="americano ad">
+         inkscape:label="americano ad"
+         transform="translate(-1.5189844)">
         <text
            class="st23"
-           transform="translate(63.6 618.2) scale(.81 1)"
-           id="text6254"><tspan
+           transform="matrix(0.81,0,0,1,63.6,618.2)"
+           id="text6254"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6254">AMERiCANO</tspan></text>
+             id="tspan6254"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">AMERiCANO</tspan></text>
       </g>
       <g
          id="text52"
          class="st12"
-         inkscape:label="cay ad">
+         inkscape:label="cay ad"
+         transform="translate(-1.669086)">
         <text
            class="st23"
-           transform="translate(61.97 545.54) scale(.81 1)"
-           id="text6255"><tspan
+           transform="matrix(0.81,0,0,1,61.97,545.54)"
+           id="text6255"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6255">ÇAY</tspan></text>
+             id="tspan6255"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ÇAY</tspan></text>
       </g>
       <g
          id="text50"
          class="st12"
-         inkscape:label="turk kahvesi ad">
+         inkscape:label="turk kahvesi ad"
+         transform="translate(-1.9085803)">
         <text
            class="st8"
-           transform="translate(63.2 473.59) scale(.77 1)"
-           id="text6256"><tspan
+           transform="matrix(0.77,0,0,1,63.2,473.59)"
+           id="text6256"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.73px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6256">TÜRK KAHVESi</tspan></text>
+             id="tspan6256"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.73px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">TÜRK KAHVESi</tspan></text>
       </g>
     </g>
     <g
@@ -29337,12 +29360,12 @@
          id="text63-9"
          class="st12"
          inkscape:label="cappuccino"
-         transform="translate(20.008898,0.87483398)">
+         transform="translate(23.208807,0.87483398)">
         <text
            class="st9"
            transform="matrix(0.86,0,0,1,436.21,957.24)"
            id="text6258"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.75px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.75px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan15"
              x="0"
@@ -29352,12 +29375,12 @@
          id="text64-6"
          class="st12"
          inkscape:label="w.chocolate mocha"
-         transform="translate(21.718898,0.87483398)">
+         transform="translate(27.137149,0.87483398)">
         <text
            class="st9"
            transform="matrix(0.86,0,0,1,434.5,886.39)"
            id="text6260"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.75px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.75px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan7"
              x="0"
@@ -29367,12 +29390,12 @@
          id="text64"
          class="st12"
          inkscape:label="cafe mocha"
-         transform="translate(19.718898,0.87483398)">
+         transform="translate(22.918807,0.87483398)">
         <text
            class="st9"
            transform="matrix(0.86,0,0,1,436.5,811.3)"
            id="text6262"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.75px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.75px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan14"
              x="0"
@@ -29382,12 +29405,12 @@
          id="text63"
          class="st12"
          inkscape:label="cafe latte"
-         transform="translate(17.618898,0.87483398)">
+         transform="translate(20.818807,0.87483398)">
         <text
            class="st9"
            transform="matrix(0.86,0,0,1,438.6,744.96)"
            id="text6264"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.75px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.75px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan13"
              x="0"
@@ -29402,7 +29425,7 @@
            class="st9"
            transform="matrix(0.86,0,0,1,440.62,680.38)"
            id="text6266"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.75px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.75px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan12"
              x="0"
@@ -29414,12 +29437,12 @@
          inkscape:label="americano"
          inkscape:transform-center-x="-30"
          inkscape:transform-center-y="210"
-         transform="translate(14.598898,0.87483398)">
+         transform="translate(17.798807,0.87483398)">
         <text
            class="st9"
            transform="matrix(0.86,0,0,1,441.62,611.66)"
            id="text6268"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.75px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.75px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan11"
              x="0"
@@ -29434,7 +29457,7 @@
            class="st9"
            transform="matrix(0.86,0,0,1,442.27,548.22)"
            id="text6270"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.75px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.75px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan10"
              x="0"
@@ -29444,12 +29467,12 @@
          id="text61"
          class="st12"
          inkscape:label="turk kahvesi"
-         transform="translate(12.138898,0.87483398)">
+         transform="translate(15.338807,0.87483398)">
         <text
            class="st9"
            transform="matrix(0.86,0,0,1,444.08,472.73)"
            id="text6272"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.75px;font-family:MyriadPro-Regular, 'Myriad Pro';-inkscape-font-specification:'MyriadPro-Regular, Myriad Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.75px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan9"
              x="0"
@@ -29466,10 +29489,12 @@
         <text
            class="st6"
            transform="translate(723.83 968.04) scale(.76 1)"
-           id="text6273"><tspan
+           id="text6273"
+           style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.91px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6273">SU</tspan></text>
+             id="tspan6273"
+             style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.90999871px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">SU</tspan></text>
       </g>
       <g
          id="text40"
@@ -29478,10 +29503,12 @@
         <text
            class="st6"
            transform="translate(722.74 907.83) scale(.76 1)"
-           id="text6274"><tspan
+           id="text6274"
+           style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.91px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6274">COCO COLA</tspan></text>
+             id="tspan6274"
+             style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.90999871px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">COCO COLA</tspan></text>
       </g>
       <g
          id="text12"
@@ -29490,10 +29517,12 @@
         <text
            class="st6"
            transform="translate(722.52 849.16) scale(.76 1)"
-           id="text6275"><tspan
+           id="text6275"
+           style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.91px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6275">FUSETEA</tspan></text>
+             id="tspan6275"
+             style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.90999871px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">FUSETEA</tspan></text>
       </g>
       <g
          id="text11"
@@ -29502,10 +29531,12 @@
         <text
            class="st6"
            transform="translate(723.38 785.86) scale(.76 1)"
-           id="text6276"><tspan
+           id="text6276"
+           style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.91px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6276">MONSTER</tspan></text>
+             id="tspan6276"
+             style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.90999871px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">MONSTER</tspan></text>
       </g>
       <g
          id="text3"
@@ -29514,10 +29545,12 @@
         <text
            class="st6"
            transform="translate(723.35 730.27) scale(.76 1)"
-           id="text6277"><tspan
+           id="text6277"
+           style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.91px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6277">POWERADE</tspan></text>
+             id="tspan6277"
+             style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.90999871px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">POWERADE</tspan></text>
       </g>
       <g
          id="text35"
@@ -29526,10 +29559,12 @@
         <text
            class="st6"
            transform="translate(722.21 668.52) scale(.76 1)"
-           id="text6278"><tspan
+           id="text6278"
+           style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.91px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6278">ICE KARAMEL LATTE</tspan></text>
+             id="tspan6278"
+             style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.90999871px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ICE KARAMEL LATTE</tspan></text>
       </g>
       <g
          id="text34"
@@ -29538,10 +29573,12 @@
         <text
            class="st6"
            transform="translate(722.21 600.58) scale(.76 1)"
-           id="text6279"><tspan
+           id="text6279"
+           style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.91px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6279">ICE VANiLYA LATTE</tspan></text>
+             id="tspan6279"
+             style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.90999871px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ICE VANiLYA LATTE</tspan></text>
       </g>
       <g
          id="text33"
@@ -29550,10 +29587,12 @@
         <text
            class="st6"
            transform="translate(722.21 535.74) scale(.76 1)"
-           id="text6280"><tspan
+           id="text6280"
+           style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.91px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6280">ICE LATTE</tspan></text>
+             id="tspan6280"
+             style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.90999871px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ICE LATTE</tspan></text>
       </g>
       <g
          id="text32"
@@ -29562,10 +29601,12 @@
         <text
            class="st6"
            transform="translate(722.21 469.35) scale(.76 1)"
-           id="text6281"><tspan
+           id="text6281"
+           style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.91px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6281">ICE AMERiCANO</tspan></text>
+             id="tspan6281"
+             style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.90999871px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ICE AMERiCANO</tspan></text>
       </g>
     </g>
     <g
@@ -29581,7 +29622,7 @@
            class="st21"
            transform="matrix(0.92,0,0,1,1092.02,965.03)"
            id="text6283"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.51px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.51px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan24"
              x="0"
@@ -29596,7 +29637,7 @@
            class="st21"
            transform="matrix(0.92,0,0,1,1091,903.97)"
            id="text6285"
-           style="font-size:43.51px;isolation:isolate;fill:#2b0000"><tspan
+           style="font-size:43.51px;isolation:isolate;fill:#2b0000;-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
              sodipodi:role="line"
              id="tspan23"
              x="0"
@@ -29611,7 +29652,7 @@
            class="st21"
            transform="matrix(0.92,0,0,1,1092.45,839.78)"
            id="text6287"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.51px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.51px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan22"
              x="0"
@@ -29626,7 +29667,7 @@
            class="st21"
            transform="matrix(0.92,0,0,1,1092.45,780.28)"
            id="text6289"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.51px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.51px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan21"
              x="0"
@@ -29641,7 +29682,7 @@
            class="st21"
            transform="matrix(0.92,0,0,1,1092.45,722.35)"
            id="text6291"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.51px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.51px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan20"
              x="0"
@@ -29651,12 +29692,12 @@
          id="text39"
          class="st12"
          inkscape:label="karamel latte"
-         transform="translate(29.424427)">
+         transform="translate(32.610346)">
         <text
            class="st21"
            transform="matrix(0.92,0,0,1,1088.6,665.99)"
            id="text6293"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.51px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.51px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan34"
              x="0"
@@ -29666,12 +29707,12 @@
          id="text38"
          class="st12"
          inkscape:label="vanilya latte"
-         transform="translate(30.874427)">
+         transform="translate(34.060346)">
         <text
            class="st21"
            transform="matrix(0.92,0,0,1,1087.15,597.1)"
            id="text6295"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.51px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.51px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan18"
              x="0"
@@ -29681,12 +29722,12 @@
          id="text37"
          class="st12"
          inkscape:label="ice latte"
-         transform="translate(28.414427)">
+         transform="translate(31.600346)">
         <text
            class="st21"
            transform="matrix(0.92,0,0,1,1089.61,534.48)"
            id="text6297"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.51px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.51px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan17"
              x="0"
@@ -29696,12 +29737,12 @@
          id="text36"
          class="st12"
          inkscape:label="ice americano"
-         transform="translate(29.864427)">
+         transform="translate(33.050346)">
         <text
            class="st21"
            transform="matrix(0.92,0,0,1,1088.16,465.59)"
            id="text6299"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.51px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.51px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan16"
              x="0"
@@ -29710,18 +29751,21 @@
     </g>
     <g
        id="g11-7"
-       inkscape:label="aperatif yiyecekler isim">
+       inkscape:label="aperatif yiyecekler isim"
+       transform="translate(-16.19604,0.8920575)">
       <g
          id="text22"
          class="st12"
          inkscape:label="sandvic ad">
         <text
            class="st5"
-           transform="translate(1384.25 971.12) scale(.93 1)"
-           id="text6300"><tspan
+           transform="matrix(0.93,0,0,1,1384.25,971.12)"
+           id="text6300"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6300">SANDViÇ</tspan></text>
+             id="tspan6300"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">SANDViÇ</tspan></text>
       </g>
       <g
          id="text21"
@@ -29729,11 +29773,13 @@
          inkscape:label="kuruvasan ad">
         <text
            class="st5"
-           transform="translate(1382.26 911.2) scale(.93 1)"
-           id="text6301"><tspan
+           transform="matrix(0.93,0,0,1,1382.26,911.2)"
+           id="text6301"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6301">KRUVASAN</tspan></text>
+             id="tspan6301"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">KRUVASAN</tspan></text>
       </g>
       <g
          id="text20"
@@ -29741,20 +29787,24 @@
          inkscape:label="kurabiye ad">
         <text
            class="st15"
-           transform="translate(1375.98 845.43) scale(.93 1)"
-           id="text6304"><tspan
+           transform="matrix(0.93,0,0,1,1375.98,845.43)"
+           id="text6304"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              class="st25"
              x="0"
              y="0"
-             id="tspan6302">MiNi KURAB</tspan><tspan
+             id="tspan6302"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">MiNi KURAB</tspan><tspan
              class="st37"
              x="242.8"
              y="0"
-             id="tspan6303">İ</tspan><tspan
+             id="tspan6303"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">İ</tspan><tspan
              class="st25"
-             x="253.18"
+             x="253.17999"
              y="0"
-             id="tspan6304">YE</tspan></text>
+             id="tspan6304"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">YE</tspan></text>
       </g>
       <g
          id="text19"
@@ -29762,11 +29812,13 @@
          inkscape:label="pancake ad">
         <text
            class="st5"
-           transform="translate(1383.66 781.12) scale(.93 1)"
-           id="text6305"><tspan
+           transform="matrix(0.93,0,0,1,1383.66,781.12)"
+           id="text6305"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6305">PANCAKE</tspan></text>
+             id="tspan6305"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">PANCAKE</tspan></text>
       </g>
       <g
          id="text18"
@@ -29774,11 +29826,13 @@
          inkscape:label="karisik tost ad">
         <text
            class="st5"
-           transform="translate(1382.26 718.27) scale(.93 1)"
-           id="text6306"><tspan
+           transform="matrix(0.93,0,0,1,1382.26,718.27)"
+           id="text6306"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6306">KARISIK TOST</tspan></text>
+             id="tspan6306"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">KARISIK TOST</tspan></text>
       </g>
       <g
          id="text17"
@@ -29786,11 +29840,13 @@
          inkscape:label="kasarli tost ad">
         <text
            class="st5"
-           transform="translate(1382.26 655.42) scale(.93 1)"
-           id="text6307"><tspan
+           transform="matrix(0.93,0,0,1,1382.26,655.42)"
+           id="text6307"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6307">KASARLI TOST</tspan></text>
+             id="tspan6307"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">KASARLI TOST</tspan></text>
       </g>
       <g
          id="text16"
@@ -29798,11 +29854,13 @@
          inkscape:label="et burber ad">
         <text
            class="st5"
-           transform="translate(1382.91 595.5) scale(.93 1)"
-           id="text6308"><tspan
+           transform="matrix(0.93,0,0,1,1382.91,595.5)"
+           id="text6308"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6308">ET BURGER</tspan></text>
+             id="tspan6308"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ET BURGER</tspan></text>
       </g>
       <g
          id="text15"
@@ -29810,11 +29868,13 @@
          inkscape:label="tavuk burger ad">
         <text
            class="st5"
-           transform="translate(1384.21 532.65) scale(.93 1)"
-           id="text6309"><tspan
+           transform="matrix(0.93,0,0,1,1384.21,532.65)"
+           id="text6309"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6309">TAVUK BURGER</tspan></text>
+             id="tspan6309"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">TAVUK BURGER</tspan></text>
       </g>
       <g
          id="text14"
@@ -29822,11 +29882,13 @@
          inkscape:label="citir tabagi ad">
         <text
            class="st5"
-           transform="translate(1382.91 466.51) scale(.93 1)"
-           id="text6310"><tspan
+           transform="matrix(0.93,0,0,1,1382.91,466.51)"
+           id="text6310"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              x="0"
              y="0"
-             id="tspan6310">ÇITIR TABAGI</tspan></text>
+             id="tspan6310"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.7129px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ÇITIR TABAGI</tspan></text>
       </g>
     </g>
     <g
@@ -29836,12 +29898,12 @@
          id="text31"
          class="st12"
          inkscape:label="sandavic"
-         transform="translate(0.0292941,-0.08171864)">
+         transform="translate(3.7176012,-0.08171864)">
         <text
            class="st4"
            transform="matrix(0.91,0,0,1,1747.37,979.29)"
            id="text6312"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.28px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.3291px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan33"
              x="0"
@@ -29856,7 +29918,7 @@
            class="st4"
            transform="matrix(0.91,0,0,1,1747.31,913.47)"
            id="text6314"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.28px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.3291px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan32"
              x="0"
@@ -29866,12 +29928,12 @@
          id="text31-8"
          class="st12"
          inkscape:label="kurabiye"
-         transform="translate(-0.5807059,-0.08171864)">
+         transform="translate(3.1076012,-0.08171864)">
         <text
            class="st19"
            transform="matrix(0.91,0,0,1,1747.98,846.9)"
            id="text6316"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.28px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.3291px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan31"
              x="0"
@@ -29886,7 +29948,7 @@
            class="st4"
            transform="matrix(0.91,0,0,1,1747.31,781.81)"
            id="text6318"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.28px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.3291px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan30"
              x="0"
@@ -29896,12 +29958,12 @@
          id="text27"
          class="st12"
          inkscape:label="karisik tost"
-         transform="translate(0.0892941,-0.08171864)">
+         transform="translate(3.7776012,-0.08171864)">
         <text
            class="st4"
            transform="matrix(0.91,0,0,1,1747.31,720.77)"
            id="text6320"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.28px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.3291px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan29"
              x="0"
@@ -29911,12 +29973,12 @@
          id="text26"
          class="st12"
          inkscape:label="karasarli tost"
-         transform="translate(0.0892941,-0.08171864)">
+         transform="translate(3.7776012,-0.08171864)">
         <text
            class="st4"
            transform="matrix(0.91,0,0,1,1747.31,656.13)"
            id="text6322"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.28px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.3291px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan28"
              x="0"
@@ -29926,12 +29988,12 @@
          id="text25"
          class="st12"
          inkscape:label="et burger"
-         transform="translate(0.0892941,-0.08171864)">
+         transform="translate(3.7776012,-0.08171864)">
         <text
            class="st4"
            transform="matrix(0.91,0,0,1,1747.31,596.29)"
            id="text6324"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.28px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.3291px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan27"
              x="0"
@@ -29941,12 +30003,12 @@
          id="text24"
          class="st12"
          inkscape:label="tavuk burger"
-         transform="translate(0.0892941,-0.08171864)">
+         transform="translate(3.7776012,-0.08171864)">
         <text
            class="st4"
            transform="matrix(0.91,0,0,1,1747.31,529.26)"
            id="text6326"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.28px;font-family:MyriadPro-Regular, 'Myriad Pro';-inkscape-font-specification:'MyriadPro-Regular, Myriad Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.3291px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan26"
              x="0"
@@ -29956,12 +30018,12 @@
          id="text23"
          class="st12"
          inkscape:label="citir tabagi"
-         transform="translate(0.0892941,-0.08171864)">
+         transform="translate(3.7776012,-0.08171864)">
         <text
            class="st4"
            transform="matrix(0.91,0,0,1,1747.31,465.83)"
            id="text6328"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.28px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.3291px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#2b0000"><tspan
              sodipodi:role="line"
              id="tspan25"
              x="0"
