@@ -1,0 +1,12 @@
+[
+  {
+    "file": "slayt.svg",
+    "effect": "fade",
+    "duration": 5000
+  },
+  {
+    "file": "3.svg",
+    "effect": "fade",
+    "duration": 3000
+  }
+]
